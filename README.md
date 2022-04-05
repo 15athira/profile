@@ -1,7 +1,7 @@
 <html>
     <head>
         <title>MY Profile</title>
-        <link rel="icon" href="userrating-115845_115824.ico">
+        <link rel="icon" href="/userrating-115845_115824.ico">
     </head>
     <body bgcolor="#EBDEF0">
         <center><h1><hr>MY PROFILE<hr></h1></center>
